@@ -423,6 +423,15 @@ DOMAIN-SUFFIX,vipstatic.com
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xmcdn.com
 
+# BiuXin 域名直连
+DOMAIN-SUFFIX,biuxin.com
+DOMAIN-SUFFIX,xinb.de
+DOMAIN-SUFFIX,biuxin.de
+DOMAIN-SUFFIX,200038.xyz
+DOMAIN-SUFFIX,hexo.nyc.mn
+DOMAIN-SUFFIX,suoni.nyc.mn
+
+
 # Xunlei 迅雷
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,88cdn.com

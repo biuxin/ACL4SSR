@@ -430,8 +430,6 @@ DOMAIN-SUFFIX,biuxin.de
 DOMAIN-SUFFIX,200038.xyz
 DOMAIN-SUFFIX,hexo.nyc.mn
 DOMAIN-SUFFIX,suoni.nyc.mn
-IP-CIDR,156.239.229.249,no-resolve
-IP-CIDR,154.219.103.7,no-resolve
 
 # Xunlei 迅雷
 DOMAIN-SUFFIX,00cdn.com
@@ -466,6 +464,8 @@ IP-CIDR,139.220.243.27/32,no-resolve
 IP-CIDR,172.16.102.56/32,no-resolve
 IP-CIDR,185.188.32.1/28,no-resolve
 IP-CIDR,221.226.128.146/32,no-resolve
+IP-CIDR,156.239.229.249/32,no-resolve
+IP-CIDR,154.219.103.7/32,no-resolve
 IP-CIDR6,2a0b:b580::/48,no-resolve
 IP-CIDR6,2a0b:b581::/48,no-resolve
 IP-CIDR6,2a0b:b582::/48,no-resolve
